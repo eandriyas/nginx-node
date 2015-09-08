@@ -27,7 +27,7 @@ server {
 	index index.php index.html index.htm;
 
 	# Make site accessible from http://localhost/
-	server_name globalkomputer.net www.globalkomputer.net;
+	server_name domain.net www.domain.net;
 
 	location / {
 		# First attempt to serve request as file, then
